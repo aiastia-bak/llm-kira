@@ -6,5 +6,6 @@ numpy
 jieba
 beautifulsoup4
 pydantic
+tiktoken
 loguru
 elara
